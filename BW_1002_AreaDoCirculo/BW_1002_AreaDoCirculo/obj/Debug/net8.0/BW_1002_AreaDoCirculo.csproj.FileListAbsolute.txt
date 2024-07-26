@@ -1,0 +1,14 @@
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\bin\Debug\net8.0\BW_1002_AreaDoCirculo.exe
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\bin\Debug\net8.0\BW_1002_AreaDoCirculo.deps.json
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\bin\Debug\net8.0\BW_1002_AreaDoCirculo.runtimeconfig.json
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\bin\Debug\net8.0\BW_1002_AreaDoCirculo.dll
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\bin\Debug\net8.0\BW_1002_AreaDoCirculo.pdb
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\obj\Debug\net8.0\BW_1002_AreaDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\obj\Debug\net8.0\BW_1002_AreaDoCirculo.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\obj\Debug\net8.0\BW_1002_AreaDoCirculo.AssemblyInfo.cs
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\obj\Debug\net8.0\BW_1002_AreaDoCirculo.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\obj\Debug\net8.0\BW_1002_AreaDoCirculo.dll
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\obj\Debug\net8.0\refint\BW_1002_AreaDoCirculo.dll
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\obj\Debug\net8.0\BW_1002_AreaDoCirculo.pdb
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\obj\Debug\net8.0\BW_1002_AreaDoCirculo.genruntimeconfig.cache
+C:\Users\SummonTerras\source\repos\BW_1002_AreaDoCirculo\BW_1002_AreaDoCirculo\obj\Debug\net8.0\ref\BW_1002_AreaDoCirculo.dll
