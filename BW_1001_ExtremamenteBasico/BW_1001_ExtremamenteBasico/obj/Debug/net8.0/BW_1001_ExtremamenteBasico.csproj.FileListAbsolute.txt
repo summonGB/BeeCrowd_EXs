@@ -1,0 +1,14 @@
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\bin\Debug\net8.0\BW_1001_ExtremamenteBasico.exe
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\bin\Debug\net8.0\BW_1001_ExtremamenteBasico.deps.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\bin\Debug\net8.0\BW_1001_ExtremamenteBasico.runtimeconfig.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\bin\Debug\net8.0\BW_1001_ExtremamenteBasico.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\bin\Debug\net8.0\BW_1001_ExtremamenteBasico.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\obj\Debug\net8.0\BW_1001_ExtremamenteBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\obj\Debug\net8.0\BW_1001_ExtremamenteBasico.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\obj\Debug\net8.0\BW_1001_ExtremamenteBasico.AssemblyInfo.cs
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\obj\Debug\net8.0\BW_1001_ExtremamenteBasico.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\obj\Debug\net8.0\BW_1001_ExtremamenteBasico.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\obj\Debug\net8.0\refint\BW_1001_ExtremamenteBasico.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\obj\Debug\net8.0\BW_1001_ExtremamenteBasico.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\obj\Debug\net8.0\BW_1001_ExtremamenteBasico.genruntimeconfig.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd\BeeCrowd_EXs\BW_1001_ExtremamenteBasico\BW_1001_ExtremamenteBasico\obj\Debug\net8.0\ref\BW_1001_ExtremamenteBasico.dll
