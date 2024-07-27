@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SummonTerras\\Documents\\GitHub\\BeeCrowd_EXs\\BW_1007_Diferenca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B936FE0-C866-4488-AFE5-B7A5865B8A59}|BW_1007_Diferenca\\BW_1007_Diferenca.csproj|c:\\users\\summonterras\\documents\\github\\beecrowd_exs\\bw_1007_diferenca\\bw_1007_diferenca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B936FE0-C866-4488-AFE5-B7A5865B8A59}|BW_1007_Diferenca\\BW_1007_Diferenca.csproj|solutionrelative:bw_1007_diferenca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SummonTerras\\Documents\\GitHub\\BeeCrowd_EXs\\BW_1007_Diferenca\\BW_1007_Diferenca\\Program.cs",
+              "RelativeDocumentMoniker": "BW_1007_Diferenca\\Program.cs",
+              "ToolTip": "C:\\Users\\SummonTerras\\Documents\\GitHub\\BeeCrowd_EXs\\BW_1007_Diferenca\\BW_1007_Diferenca\\Program.cs",
+              "RelativeToolTip": "BW_1007_Diferenca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T14:12:11.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
