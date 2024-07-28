@@ -1,0 +1,15 @@
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\bin\Debug\net8.0\BW_1016_Distancia.exe
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\bin\Debug\net8.0\BW_1016_Distancia.deps.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\bin\Debug\net8.0\BW_1016_Distancia.runtimeconfig.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\bin\Debug\net8.0\BW_1016_Distancia.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\bin\Debug\net8.0\BW_1016_Distancia.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\obj\Debug\net8.0\BW_1016_Distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\obj\Debug\net8.0\BW_1016_Distancia.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\obj\Debug\net8.0\BW_1016_Distancia.AssemblyInfo.cs
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\obj\Debug\net8.0\BW_1016_Distancia.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\obj\Debug\net8.0\BW_1016_Distancia.sourcelink.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\obj\Debug\net8.0\BW_1016_Distancia.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\obj\Debug\net8.0\refint\BW_1016_Distancia.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\obj\Debug\net8.0\BW_1016_Distancia.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\obj\Debug\net8.0\BW_1016_Distancia.genruntimeconfig.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1016_Distancia\BW_1016_Distancia\obj\Debug\net8.0\ref\BW_1016_Distancia.dll

@@ -1,0 +1,15 @@
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\bin\Debug\net8.0\BW_1014_Consumo.exe
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\bin\Debug\net8.0\BW_1014_Consumo.deps.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\bin\Debug\net8.0\BW_1014_Consumo.runtimeconfig.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\bin\Debug\net8.0\BW_1014_Consumo.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\bin\Debug\net8.0\BW_1014_Consumo.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\obj\Debug\net8.0\BW_1014_Consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\obj\Debug\net8.0\BW_1014_Consumo.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\obj\Debug\net8.0\BW_1014_Consumo.AssemblyInfo.cs
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\obj\Debug\net8.0\BW_1014_Consumo.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\obj\Debug\net8.0\BW_1014_Consumo.sourcelink.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\obj\Debug\net8.0\BW_1014_Consumo.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\obj\Debug\net8.0\refint\BW_1014_Consumo.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\obj\Debug\net8.0\BW_1014_Consumo.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\obj\Debug\net8.0\BW_1014_Consumo.genruntimeconfig.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1014_Consumo\BW_1014_Consumo\obj\Debug\net8.0\ref\BW_1014_Consumo.dll

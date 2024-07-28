@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BW_1014_Consumo/1.0.0": {
+        "runtime": {
+          "BW_1014_Consumo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BW_1014_Consumo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
