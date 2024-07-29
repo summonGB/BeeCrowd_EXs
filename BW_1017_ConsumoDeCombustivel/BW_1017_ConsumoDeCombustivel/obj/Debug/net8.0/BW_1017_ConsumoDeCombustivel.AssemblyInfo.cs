@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BW_1017_ConsumoDeCombustivel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30702346187bb0e8fd9fb9149978d260c7506c6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d190b258dfaba0b41b9dc0777126a94ef297861")]
 [assembly: System.Reflection.AssemblyProductAttribute("BW_1017_ConsumoDeCombustivel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BW_1017_ConsumoDeCombustivel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,7 +5,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        double TempV, VelV, DistV, Consu;
+        int TempV, VelV;
+        double Consu, DistV;
 
         TempV = int.Parse(Console.ReadLine());
         VelV = int.Parse(Console.ReadLine());
