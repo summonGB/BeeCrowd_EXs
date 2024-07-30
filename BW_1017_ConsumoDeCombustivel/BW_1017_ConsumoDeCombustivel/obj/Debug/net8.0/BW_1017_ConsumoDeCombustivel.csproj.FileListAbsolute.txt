@@ -1,0 +1,15 @@
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\bin\Debug\net8.0\BW_1017_ConsumoDeCombustivel.exe
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\bin\Debug\net8.0\BW_1017_ConsumoDeCombustivel.deps.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\bin\Debug\net8.0\BW_1017_ConsumoDeCombustivel.runtimeconfig.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\bin\Debug\net8.0\BW_1017_ConsumoDeCombustivel.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\bin\Debug\net8.0\BW_1017_ConsumoDeCombustivel.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\obj\Debug\net8.0\BW_1017_ConsumoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\obj\Debug\net8.0\BW_1017_ConsumoDeCombustivel.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\obj\Debug\net8.0\BW_1017_ConsumoDeCombustivel.AssemblyInfo.cs
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\obj\Debug\net8.0\BW_1017_ConsumoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\obj\Debug\net8.0\BW_1017_ConsumoDeCombustivel.sourcelink.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\obj\Debug\net8.0\BW_1017_ConsumoDeCombustivel.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\obj\Debug\net8.0\refint\BW_1017_ConsumoDeCombustivel.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\obj\Debug\net8.0\BW_1017_ConsumoDeCombustivel.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\obj\Debug\net8.0\BW_1017_ConsumoDeCombustivel.genruntimeconfig.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1017_ConsumoDeCombustivel\BW_1017_ConsumoDeCombustivel\obj\Debug\net8.0\ref\BW_1017_ConsumoDeCombustivel.dll

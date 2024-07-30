@@ -1,0 +1,15 @@
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\bin\Debug\net8.0\BW_1010_CalculoSimples.exe
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\bin\Debug\net8.0\BW_1010_CalculoSimples.deps.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\bin\Debug\net8.0\BW_1010_CalculoSimples.runtimeconfig.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\bin\Debug\net8.0\BW_1010_CalculoSimples.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\bin\Debug\net8.0\BW_1010_CalculoSimples.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\obj\Debug\net8.0\BW_1010_CalculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\obj\Debug\net8.0\BW_1010_CalculoSimples.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\obj\Debug\net8.0\BW_1010_CalculoSimples.AssemblyInfo.cs
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\obj\Debug\net8.0\BW_1010_CalculoSimples.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\obj\Debug\net8.0\BW_1010_CalculoSimples.sourcelink.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\obj\Debug\net8.0\BW_1010_CalculoSimples.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\obj\Debug\net8.0\refint\BW_1010_CalculoSimples.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\obj\Debug\net8.0\BW_1010_CalculoSimples.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\obj\Debug\net8.0\BW_1010_CalculoSimples.genruntimeconfig.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1010_CalculoSimples\BW_1010_CalculoSimples\obj\Debug\net8.0\ref\BW_1010_CalculoSimples.dll

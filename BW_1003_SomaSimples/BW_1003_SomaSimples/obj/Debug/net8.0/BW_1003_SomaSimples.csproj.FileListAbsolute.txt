@@ -1,0 +1,15 @@
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\bin\Debug\net8.0\BW_1003_SomaSimples.exe
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\bin\Debug\net8.0\BW_1003_SomaSimples.deps.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\bin\Debug\net8.0\BW_1003_SomaSimples.runtimeconfig.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\bin\Debug\net8.0\BW_1003_SomaSimples.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\bin\Debug\net8.0\BW_1003_SomaSimples.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\obj\Debug\net8.0\BW_1003_SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\obj\Debug\net8.0\BW_1003_SomaSimples.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\obj\Debug\net8.0\BW_1003_SomaSimples.AssemblyInfo.cs
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\obj\Debug\net8.0\BW_1003_SomaSimples.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\obj\Debug\net8.0\BW_1003_SomaSimples.sourcelink.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\obj\Debug\net8.0\BW_1003_SomaSimples.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\obj\Debug\net8.0\refint\BW_1003_SomaSimples.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\obj\Debug\net8.0\BW_1003_SomaSimples.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\obj\Debug\net8.0\BW_1003_SomaSimples.genruntimeconfig.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1003_SomaSimples\BW_1003_SomaSimples\obj\Debug\net8.0\ref\BW_1003_SomaSimples.dll

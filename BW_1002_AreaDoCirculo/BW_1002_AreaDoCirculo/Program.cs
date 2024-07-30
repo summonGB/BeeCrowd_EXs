@@ -8,6 +8,7 @@ internal class Program
 
         pi = 3.14159;
 
+        Console.WriteLine("Digite o angulo do raio :");
         raio1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
         raio = Math.Pow(raio1, 2.0);

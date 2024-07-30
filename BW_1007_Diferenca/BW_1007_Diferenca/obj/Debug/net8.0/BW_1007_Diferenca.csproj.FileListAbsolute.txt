@@ -1,0 +1,15 @@
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\obj\Debug\net8.0\BW_1007_Diferenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\obj\Debug\net8.0\BW_1007_Diferenca.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\obj\Debug\net8.0\BW_1007_Diferenca.AssemblyInfo.cs
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\obj\Debug\net8.0\BW_1007_Diferenca.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\obj\Debug\net8.0\BW_1007_Diferenca.sourcelink.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\bin\Debug\net8.0\BW_1007_Diferenca.exe
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\bin\Debug\net8.0\BW_1007_Diferenca.deps.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\bin\Debug\net8.0\BW_1007_Diferenca.runtimeconfig.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\bin\Debug\net8.0\BW_1007_Diferenca.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\bin\Debug\net8.0\BW_1007_Diferenca.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\obj\Debug\net8.0\BW_1007_Diferenca.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\obj\Debug\net8.0\refint\BW_1007_Diferenca.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\obj\Debug\net8.0\BW_1007_Diferenca.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\obj\Debug\net8.0\BW_1007_Diferenca.genruntimeconfig.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1007_Diferenca\BW_1007_Diferenca\obj\Debug\net8.0\ref\BW_1007_Diferenca.dll

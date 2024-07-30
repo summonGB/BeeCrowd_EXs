@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SummonTerras\\Documents\\GitHub\\BeeCrowd_EXs\\BW_1016_Distancia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E51B4882-6DC1-4FF5-B9F7-0CAAB69D9725}|BW_1016_Distancia\\BW_1016_Distancia.csproj|c:\\users\\summonterras\\documents\\github\\beecrowd_exs\\bw_1016_distancia\\bw_1016_distancia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51B4882-6DC1-4FF5-B9F7-0CAAB69D9725}|BW_1016_Distancia\\BW_1016_Distancia.csproj|solutionrelative:bw_1016_distancia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SummonTerras\\Documents\\GitHub\\BeeCrowd_EXs\\BW_1016_Distancia\\BW_1016_Distancia\\Program.cs",
+              "RelativeDocumentMoniker": "BW_1016_Distancia\\Program.cs",
+              "ToolTip": "C:\\Users\\SummonTerras\\Documents\\GitHub\\BeeCrowd_EXs\\BW_1016_Distancia\\BW_1016_Distancia\\Program.cs",
+              "RelativeToolTip": "BW_1016_Distancia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:17:25.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

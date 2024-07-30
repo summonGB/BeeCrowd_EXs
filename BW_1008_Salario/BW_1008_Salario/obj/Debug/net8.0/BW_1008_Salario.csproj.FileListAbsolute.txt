@@ -1,0 +1,15 @@
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\bin\Debug\net8.0\BW_1008_Salario.exe
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\bin\Debug\net8.0\BW_1008_Salario.deps.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\bin\Debug\net8.0\BW_1008_Salario.runtimeconfig.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\bin\Debug\net8.0\BW_1008_Salario.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\bin\Debug\net8.0\BW_1008_Salario.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\obj\Debug\net8.0\BW_1008_Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\obj\Debug\net8.0\BW_1008_Salario.AssemblyInfoInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\obj\Debug\net8.0\BW_1008_Salario.AssemblyInfo.cs
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\obj\Debug\net8.0\BW_1008_Salario.csproj.CoreCompileInputs.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\obj\Debug\net8.0\BW_1008_Salario.sourcelink.json
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\obj\Debug\net8.0\BW_1008_Salario.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\obj\Debug\net8.0\refint\BW_1008_Salario.dll
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\obj\Debug\net8.0\BW_1008_Salario.pdb
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\obj\Debug\net8.0\BW_1008_Salario.genruntimeconfig.cache
+C:\Users\SummonTerras\Documents\GitHub\BeeCrowd_EXs\BW_1008_Salario\BW_1008_Salario\obj\Debug\net8.0\ref\BW_1008_Salario.dll
